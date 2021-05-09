@@ -11,12 +11,12 @@ h1, h2, h3 {
 
 a {
 	text-decoration: none;
-	color: black;
+	color: white;
 	transition: color 0.3 ease;
 }
 
 a:hover {
-	color: white;
+	color: black;
 }
 
 .img-circle {
@@ -47,9 +47,9 @@ a:hover {
 }
 
 #btn-blue {
-	margin: 10px auto;
-	background-color: blue;
-	padding: 5px;
+	margin: 20px auto;
+	background-color: #A9BCD0;
+	padding: 10px;
 	border-radius: 12px;
 
 }
