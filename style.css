@@ -1,0 +1,55 @@
+body {
+	background-image: url(images/fond.png);
+	color: #1B1B1E;
+	font-family: "helvetica", sans-serif;
+	text-align: center;
+}
+
+h1, h2, h3 {
+	font-family: "helvetica", serif;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	transition: color 0.3 ease;
+}
+
+a:hover {
+	color: white;
+}
+
+.img-circle {
+	width: 200px;
+	border-radius: 50%;
+	border: red;
+}
+
+.container {
+	width: 700;
+	margin: 0 auto;
+}
+
+.card-white {
+	background-color: white;
+	padding: 20px;
+	margin: 40px;
+	border-radius: 5px;
+}
+
+#famille {
+	width: 400px;
+	border-radius: 5px;
+}
+
+#presentation {
+	color: white;
+}
+
+#btn-blue {
+	margin: 10px auto;
+	background-color: blue;
+	padding: 5px;
+	border-radius: 12px;
+
+}
